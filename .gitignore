@@ -1,0 +1,5 @@
+# Ignore the output directory that is used to 
+# render html using Jinja2 and templates
+renders/
+johntalton/
+
